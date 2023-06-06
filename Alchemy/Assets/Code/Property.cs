@@ -8,6 +8,16 @@ using UnityEngine;
 
         public int OxState; // Oxide State
 
+        public float Mass;
+
+        public string PP;
+
+        public float Temp;
+
+        public string Activity;
+
+        public float Speed;
+        
         public int group;
 
         public int priority;
