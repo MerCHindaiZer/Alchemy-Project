@@ -157,3 +157,4 @@ _ReSharper*/
 #Subversion files
 .svn 
 .gitattributes
+Alchemy/Packages/com.ptc.vuforia.engine-10.15.4.tgz
